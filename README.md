@@ -3,7 +3,7 @@
 A project utilizes HTML5 canvas via Javascript.
 
 
-Main properties/functions/methods highlight:
+Main properties & methods highlight:
 
 canvas.getContext(), 
 
